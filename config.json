@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterverify",
+        "uuid": 10298613,
+        "checksum": "xbwpni"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
